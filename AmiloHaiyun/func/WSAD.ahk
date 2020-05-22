@@ -1,3 +1,4 @@
+;上下左右
 #w::
 Send {up}
 return
@@ -10,3 +11,4 @@ return
 #d::
 Send {right}
 return
+ 
