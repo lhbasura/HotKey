@@ -1,5 +1,5 @@
 ;行尾行首
-!a::
+!w::
 Send {home}
 return
 !e::
